@@ -1,0 +1,6 @@
+# User specific environment
+set NODEJS_HOME $HOME/Downloads/node-v21.0.0-nightly202307241ceb8c113d-linux-x64
+set JAVA_HOME "$HOME/application/android/studio"
+set PATH "$HOME/.local/bin:$HOME/bin:$PATH"
+export PATH
+
